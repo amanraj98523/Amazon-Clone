@@ -12,3 +12,5 @@ User Account Options:- Logged-in users can access their account information, inc
 Promotional Banners:- The front page often features promotional banners highlighting deals, discounts, and upcoming events such as sales or product launches, attracting attention to specific offers.
 
 Familiar Layout:- Amazon's front page has a consistent and familiar layout with a top navigation bar, category links, featured sections, and footer links for easy navigation and accessibility across devices.
+
+# Result
