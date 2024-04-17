@@ -1,5 +1,5 @@
 # Amazon-Clone
-The Amazon-Clone project replicates the front page of Amazon's website, featuring product listings, search functionality, user account options, and a familiar layout, designed for learning and practice purposes.
+
 # Features
 Product Listings:- Amazon's front page prominently displays a curated selection of products across various categories, showcasing new releases, best sellers, and personalized recommendations.
 
